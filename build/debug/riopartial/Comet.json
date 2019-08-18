@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project Comet)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Comet",
+    "language": "java"
+  }
+]

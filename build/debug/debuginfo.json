@@ -1,0 +1,51 @@
+[
+  {
+    "artifact": "frcJava (in project Comet 3.3.2)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Comet 3.3.2",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project Comet 3.3)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Comet 3.3",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project Comet 3.5.1)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Comet 3.5.1",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project Comet 5.0)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Comet 5.0",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project Comet)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Comet",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project FRC Tank_Drive 2.5)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "FRC Tank_Drive 2.5",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project FRC Tank_Drive 3.0)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "FRC Tank_Drive 3.0",
+    "language": "java"
+  }
+]
